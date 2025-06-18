@@ -1,4 +1,4 @@
-🟠 Simple Neural Network Classification on make_circles (PyTorch)
+## 🟠 Simple Neural Network Classification on make_circles (PyTorch)
 This is my implementation of a basic neural network classifier for the classic make_circles dataset using PyTorch.
 It's inspired by the tutorial "PyTorch for Deep Learning & Machine Learning – Full Course" by Daniel Bourke.
 
